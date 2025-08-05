@@ -36,7 +36,6 @@ A smart web-based attendance system that uses face recognition to identify indiv
 ```
 ├── app.py                  # Main Streamlit app
 ├── requirements.txt        # Project dependencies
-├── utils/                  # Helper functions (embedding, matching, etc.)
 ├── dataset/                # User images organized in folders (ID_Name)
 ├── output/                 # Attendance CSVs and logs
 ```
