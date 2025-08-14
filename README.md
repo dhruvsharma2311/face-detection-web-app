@@ -44,10 +44,7 @@ Built using **Python**, **Streamlit**, **InsightFace**, and **OpenCV**.
 
 ## 🎥 Demo Video
 
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1cwjUELvnJoDT0Uwjd4YAj4elgX0lWTwJ" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Link](https://drive.google.com/file/d/1cwjUELvnJoDT0Uwjd4YAj4elgX0lWTwJ/view?usp=sharing)
 ---
 
 ## 🔧 Installation & Setup
