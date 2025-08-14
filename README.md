@@ -39,6 +39,13 @@ Built using **Python**, **Streamlit**, **InsightFace**, and **OpenCV**.
 └── .gitignore              # Ignored files & folders
 ```
 
+
+---
+
+## 🎥 Demo Video
+
+<iframe src="https://drive.google.com/file/d/1cwjUELvnJoDT0Uwjd4YAj4elgX0lWTwJ/preview" width="640" height="360" allow="autoplay"></iframe>
+
 ---
 
 ## 🔧 Installation & Setup
