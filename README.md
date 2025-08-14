@@ -42,9 +42,7 @@ Built using **Python**, **Streamlit**, **InsightFace**, and **OpenCV**.
 
 ---
 
-## 🎥 Demo Video
-
-[Link](https://drive.google.com/file/d/1cwjUELvnJoDT0Uwjd4YAj4elgX0lWTwJ/view?usp=sharing)
+## 🎥 Demo Video -> [Link](https://drive.google.com/file/d/1cwjUELvnJoDT0Uwjd4YAj4elgX0lWTwJ/view?usp=sharing)
 ---
 
 ## 🔧 Installation & Setup
