@@ -1,1 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
 venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Dataset
+dataset/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+attendance_log.csv
+
+# Pre-computed face embeddings
+face_database.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
