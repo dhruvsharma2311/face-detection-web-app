@@ -11,9 +11,6 @@ venv/
 # Streamlit cache
 .streamlit/
 
-# Dataset
-dataset/
-
 # Environment variables
 .env
 
